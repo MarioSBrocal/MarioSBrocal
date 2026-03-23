@@ -90,8 +90,10 @@
 
 <div align="center">
     <h2>Projects</h2>
-    <a href="https://top.gg/bot/1334121247361204337">
+    <a href="https://github.com/MarioSBrocal/pokebooster-public">
         <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSBrocal&repo=pokebooster-public" />
+    </a>
+    <a href="https://github.com/MarioSBrocal/sentinel-backend">
         <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSBrocal&repo=sentinel-backend" />
     </a>
 </div>
