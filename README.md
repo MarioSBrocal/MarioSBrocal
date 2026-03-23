@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hey there! I'm Mario 👋</h1>
-    <h4>I'm a 21 year old developer with a love for coding, problem-solving, and creating impactful projects</h4>
+    <h4>I'm a 22 year old developer with a love for coding, problem-solving, and creating impactful projects</h4>
 </div>
 
 <div align="center">
@@ -23,7 +23,6 @@
         <img heigth="100" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
         <img heigth="100" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
         <img heigth="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img heigth="100" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     </div>
     <h3>Markup and Styling</h3>
     <div>
@@ -33,7 +32,7 @@
     <h3>Frameworks and Libraries</h3>
     <div>
         <img heigth="100" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-        <img heigth="100" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+        <img heigth="100" src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
         <img heigth="100" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
         <img heigth="100" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     </div>
@@ -58,10 +57,10 @@
     <div>
         <img heigth="100" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
     </div>
-    <h3>Other</h3>
+    <h3>Containers & Cloud</h3>
     <div>
         <img heigth="100" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-        <img heigth="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img width="76" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
     </div>
 </div>
 
@@ -93,5 +92,6 @@
     <h2>Projects</h2>
     <a href="https://top.gg/bot/1334121247361204337">
         <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSBrocal&repo=pokebooster-public" />
+        <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioSBrocal&repo=sentinel-backend" />
     </a>
 </div>
